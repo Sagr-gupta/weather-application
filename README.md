@@ -6,7 +6,7 @@
 ### How to run
 * Clone the git repository by using git clone command.
 * Run npm i command.
-* Rum npm start command.
+* Run npm start command.
 
 ### APIs Used
 [Open Weather APIs](https://openweathermap.org/)
