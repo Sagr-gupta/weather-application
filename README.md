@@ -1,6 +1,7 @@
 # React Weather App - ReactJS Projects
 
-![](weather.gif)
+![image](https://user-images.githubusercontent.com/60633026/204522226-3193bb0f-0c3b-48d1-9b42-290d27048fcf.png)
+
 
 ### Demo - Deployed over Github Pages 
 https://ayushkul.github.io/react-weather-app
